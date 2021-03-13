@@ -1,0 +1,2856 @@
+{
+  "comment_count": 4,
+  "file_count": 0,
+  "app_item_id_formatted": "628",
+  "app_item_id": 628,
+  "item_id": 1216541193,
+  "created_via": {
+    "display": false,
+    "name": "Podio",
+    "id": 1,
+    "auth_client_id": 1,
+    "url": null
+  },
+  "current_revision": {
+    "item_revision_id": 6128577767,
+    "created_on": "2021-03-08 02:11:50",
+    "created_via": {
+      "display": false,
+      "name": "Podio",
+      "id": 1,
+      "auth_client_id": 1,
+      "url": null
+    },
+    "type": "update",
+    "created_by": {
+      "image": {
+        "hosted_by": "podio",
+        "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/1178298503",
+        "file_id": 1178298503,
+        "link": "https://d2cmuesa4snpwn.cloudfront.net/public/1178298503",
+        "link_target": "_blank",
+        "hosted_by_humanized_name": "Podio",
+        "external_file_id": null
+      },
+      "avatar_id": 1178298503,
+      "user_id": 5484624,
+      "name": "Girish Rathor",
+      "last_seen_on": "2021-03-08 02:09:18",
+      "avatar": 1178298503,
+      "id": 5484624,
+      "type": "user",
+      "url": "https://podio.com/users/5484624",
+      "avatar_type": "file"
+    },
+    "user": {
+      "image": {
+        "hosted_by": "podio",
+        "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/1178298503",
+        "file_id": 1178298503,
+        "link": "https://d2cmuesa4snpwn.cloudfront.net/public/1178298503",
+        "link_target": "_blank",
+        "hosted_by_humanized_name": "Podio",
+        "external_file_id": null
+      },
+      "avatar_id": 1178298503,
+      "user_id": 5484624,
+      "name": "Girish Rathor",
+      "last_seen_on": "2021-03-08 02:09:18",
+      "avatar": 1178298503,
+      "id": 5484624,
+      "type": "user",
+      "url": "https://podio.com/users/5484624",
+      "avatar_type": "file"
+    },
+    "revision": 530
+  },
+  "link": "https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628",
+  "external_id": null,
+  "title": "zzGirish test Assistant",
+  "priority": 1.216541193E9,
+  "created_by": {
+    "image": {
+      "hosted_by": "podio",
+      "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/910675686",
+      "file_id": 910675686,
+      "link": "https://d2cmuesa4snpwn.cloudfront.net/public/910675686",
+      "link_target": "_blank",
+      "hosted_by_humanized_name": "Podio",
+      "external_file_id": null
+    },
+    "avatar_id": 910675686,
+    "user_id": 4906928,
+    "name": "Jake Lawton",
+    "last_seen_on": "2021-03-07 19:49:42",
+    "avatar": 910675686,
+    "id": 4906928,
+    "type": "user",
+    "url": "https://podio.com/users/4906928",
+    "avatar_type": "file"
+  },
+  "revision": 530,
+  "sharefile_vault_url": null,
+  "created_on": "2019-09-03 05:42:11",
+  "ratings": {
+    "like": {
+      "average": null,
+      "counts": {
+        "1": {
+          "total": 0,
+          "users": [
+
+          ]
+        }
+      }
+    }
+  },
+  "rights": [
+    "add_conversation",
+    "add_file",
+    "view",
+    "comment",
+    "subscribe",
+    "update",
+    "add_task",
+    "rate"
+  ],
+  "initial_revision": {
+    "item_revision_id": 4958961813,
+    "created_on": "2020-06-01 04:49:54",
+    "created_via": {
+      "display": true,
+      "name": "Globi Flow",
+      "id": 9108,
+      "auth_client_id": 9108,
+      "url": null
+    },
+    "type": "update",
+    "created_by": {
+      "image": null,
+      "avatar_id": 124,
+      "user_id": -1,
+      "name": "InLife Assistants",
+      "last_seen_on": null,
+      "avatar": -1,
+      "id": 20394886,
+      "type": "app",
+      "url": "https://podio.com/inlifeorgau/payroll/apps/inlife-assistants",
+      "avatar_type": "icon"
+    },
+    "user": {
+      "image": null,
+      "avatar_id": 124,
+      "user_id": -1,
+      "name": "InLife Assistants",
+      "last_seen_on": null,
+      "avatar": -1,
+      "id": 20394886,
+      "type": "app",
+      "url": "https://podio.com/inlifeorgau/payroll/apps/inlife-assistants",
+      "avatar_type": "icon"
+    },
+    "revision": 501
+  },
+  "fields": [
+    {
+      "field_id": 184718595,
+      "values": [
+        {
+          "value": {
+            "app": {
+              "current_revision": 53,
+              "link": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts",
+              "icon": "192.png",
+              "item_name": "Contact",
+              "icon_id": 192,
+              "is_default": false,
+              "url_label": "contacts",
+              "item_accounting_info": null,
+              "link_add": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts/items/new",
+              "url": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts",
+              "url_add": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts/items/new",
+              "sharefile_vault_url": null,
+              "default_view_id": null,
+              "name": "Contacts",
+              "space_id": 5876369,
+              "app_id": 20394869,
+              "config": {
+                "name": "Contacts",
+                "icon": "192.png",
+                "item_name": "Contact",
+                "icon_id": 192,
+                "type": "contact"
+              },
+              "status": "active"
+            },
+            "app_item_id": 1504,
+            "item_id": 1216540116,
+            "created_via": {
+              "display": false,
+              "name": "Podio",
+              "id": 1,
+              "auth_client_id": 1,
+              "url": null
+            },
+            "link": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts/items/1504",
+            "title": "zzGirish test Assistant",
+            "created_by": {
+              "image": {
+                "hosted_by": "podio",
+                "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/910675686",
+                "file_id": 910675686,
+                "link": "https://d2cmuesa4snpwn.cloudfront.net/public/910675686",
+                "link_target": "_blank",
+                "hosted_by_humanized_name": "Podio",
+                "external_file_id": null
+              },
+              "avatar_id": 910675686,
+              "user_id": 4906928,
+              "name": "Jake Lawton",
+              "last_seen_on": "2021-03-07 19:49:42",
+              "avatar": 910675686,
+              "id": 4906928,
+              "type": "user",
+              "url": "https://podio.com/users/4906928",
+              "avatar_type": "file"
+            },
+            "space": null,
+            "revision": 22,
+            "sharefile_vault_url": null,
+            "created_on": "2019-09-03 05:41:11",
+            "files": [
+
+            ],
+            "initial_revision": {
+              "item_revision_id": 3991078906,
+              "created_on": "2019-09-03 05:41:11",
+              "created_via": {
+                "display": false,
+                "name": "Podio",
+                "id": 1,
+                "auth_client_id": 1,
+                "url": null
+              },
+              "type": "creation",
+              "created_by": {
+                "image": {
+                  "hosted_by": "podio",
+                  "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/910675686",
+                  "file_id": 910675686,
+                  "link": "https://d2cmuesa4snpwn.cloudfront.net/public/910675686",
+                  "link_target": "_blank",
+                  "hosted_by_humanized_name": "Podio",
+                  "external_file_id": null
+                },
+                "avatar_id": 910675686,
+                "user_id": 4906928,
+                "name": "Jake Lawton",
+                "last_seen_on": "2021-03-07 19:49:42",
+                "avatar": 910675686,
+                "id": 4906928,
+                "type": "user",
+                "url": "https://podio.com/users/4906928",
+                "avatar_type": "file"
+              },
+              "user": {
+                "image": {
+                  "hosted_by": "podio",
+                  "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/910675686",
+                  "file_id": 910675686,
+                  "link": "https://d2cmuesa4snpwn.cloudfront.net/public/910675686",
+                  "link_target": "_blank",
+                  "hosted_by_humanized_name": "Podio",
+                  "external_file_id": null
+                },
+                "avatar_id": 910675686,
+                "user_id": 4906928,
+                "name": "Jake Lawton",
+                "last_seen_on": "2021-03-07 19:49:42",
+                "avatar": 910675686,
+                "id": 4906928,
+                "type": "user",
+                "url": "https://podio.com/users/4906928",
+                "avatar_type": "file"
+              },
+              "revision": 0
+            },
+            "sharefile_vault_folder_id": null
+          }
+        }
+      ],
+      "external_id": "name-2",
+      "label": "Name (relationship)",
+      "type": "app",
+      "config": {
+        "settings": {
+          "referenceable_types": [
+            20394869
+          ],
+          "referenced_apps": [
+            {
+              "view_id": null,
+              "app_id": 20394869
+            }
+          ],
+          "multiple": false
+        },
+        "mapping": null,
+        "label": "Name (relationship)"
+      }
+    },
+    {
+      "field_id": 206373127,
+      "values": [
+        {
+          "value": "628"
+        }
+      ],
+      "external_id": "employee-id",
+      "label": "Employee ID",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "@[Unique ID](item_app_item_id)"
+        },
+        "mapping": null,
+        "label": "Employee ID"
+      }
+    },
+    {
+      "field_id": 181782569,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Active",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "status",
+      "label": "Status",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Onboarding",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Active",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Inactive",
+              "id": 4,
+              "status": "deleted"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Offboarded",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "F7D1D0",
+              "text": "Check Status",
+              "id": 5,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Status"
+      }
+    },
+    {
+      "field_id": 166217855,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "3-Induction",
+            "id": 6,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "pay-grade",
+      "label": "Pay Grade",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "0",
+              "id": 1,
+              "status": "deleted"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "0-Induction",
+              "id": 2,
+              "status": "deleted"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "1",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "2-Induction",
+              "id": 4,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "2",
+              "id": 5,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "3-Induction",
+              "id": 6,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "3",
+              "id": 7,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Pay Grade"
+      }
+    },
+    {
+      "field_id": 185749723,
+      "values": [
+        {
+          "value": "![](http://dummyimage.com/800x35/5092BD/ffffff.png&text=About me)"
+        }
+      ],
+      "external_id": "calculation",
+      "label": "--",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var x = @[Unique ID](item_app_item_id);\n\nvar lrg = \"800\";\nvar hgt = \"35\";\nvar bg = \"5092BD\";\nvar ft = \"ffffff\";\nvar txt = \"About me\";\n\nvar header = \"![](http://dummyimage.com/\" + lrg + \"x\" + hgt + \"/\" + bg + \"/\" + ft + \".png&text=\" + txt + \")\";\n\nheader"
+        },
+        "mapping": null,
+        "label": "--"
+      }
+    },
+    {
+      "field_id": 187256727,
+      "values": [
+        {
+          "value": "[Top](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#name) \\- | - [About me](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#calculation) \\- | - [Availability](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-4) \\- | - [Management](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field) \\- | - [Payroll](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-5) \\- | - [Onboarding info](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-2) \\- | - [Onboarding status](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-3)"
+        }
+      ],
+      "external_id": "nav-links-4",
+      "label": "Nav links",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var top = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#name'+'\\\">Top<\/a>';\n\nvar sec1 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#calculation'+'\\\">About me<\/a>';\n\nvar sec2 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-4'+'\\\">Availability<\/a>';\n\nvar sec3 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field'+'\\\">Management<\/a>';\n\nvar sec4 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-5'+'\\\">Payroll<\/a>';\n\nvar sec5 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-2'+'\\\">Onboarding info<\/a>';\n\nvar sec6 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-3'+'\\\">Onboarding status<\/a>';\n\nvar nav = top + \" - | - \" + sec1 + \" - | - \" + sec2 + \" - | - \" + sec3 + \" - | - \" + sec4 + \" - | - \" + sec5 + \" - | - \" + sec6;\n\nnav;"
+        },
+        "mapping": null,
+        "label": "Nav links"
+      }
+    },
+    {
+      "field_id": 186815613,
+      "values": [
+        {
+          "value": {
+            "hosted_by": "podio",
+            "size": 176669,
+            "thumbnail_link": "https://files.podio.com/1167948193",
+            "file_id": 1167948193,
+            "link": "https://files.podio.com/1167948193",
+            "link_target": "_blank",
+            "name": "photo_g.png",
+            "perma_link": null,
+            "description": null,
+            "hosted_by_humanized_name": "Podio",
+            "external_file_id": null,
+            "mimetype": "image/png"
+          }
+        }
+      ],
+      "external_id": "photo",
+      "label": "Photo",
+      "type": "image",
+      "config": {
+        "settings": {
+          "allowed_mimetypes": [
+            "image/png"
+          ]
+        },
+        "mapping": null,
+        "label": "Photo"
+      }
+    },
+    {
+      "field_id": 184752819,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Male",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "gender",
+      "label": "Gender",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Female",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Male",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Not listed",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Prefer not to say",
+              "id": 4,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Gender"
+      }
+    },
+    {
+      "field_id": 184772102,
+      "values": [
+        {
+          "start_time": null,
+          "start_date_utc": "2000-10-01",
+          "start": "2000-10-01 00:00:00",
+          "start_time_utc": null,
+          "start_utc": "2000-10-01",
+          "start_date": "2000-10-01"
+        }
+      ],
+      "external_id": "date-of-birth",
+      "label": "Date of birth",
+      "type": "date",
+      "config": {
+        "settings": {
+          "calendar": false,
+          "color": "DCEBD8",
+          "end": "disabled",
+          "time": "disabled"
+        },
+        "mapping": null,
+        "label": "Date of birth"
+      }
+    },
+    {
+      "field_id": 184752821,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Melbourne",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "location",
+      "label": "Location",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Melbourne",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Geelong",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "VIC North East",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Location"
+      }
+    },
+    {
+      "field_id": 200228405,
+      "values": [
+        {
+          "value": "<p>Excited to work at InLife<br /><\/p><p>New line added<\/p>"
+        }
+      ],
+      "external_id": "personality-description",
+      "label": "Personality description",
+      "type": "text",
+      "config": {
+        "settings": {
+          "size": "large",
+          "format": "html"
+        },
+        "mapping": null,
+        "label": "Personality description"
+      }
+    },
+    {
+      "field_id": 200228591,
+      "values": [
+        {
+          "value": "<p>testing special skills updating<\/p>"
+        }
+      ],
+      "external_id": "interests-hobbies-and-activities",
+      "label": "Interests, hobbies and activities",
+      "type": "text",
+      "config": {
+        "settings": {
+          "size": "large",
+          "format": "html"
+        },
+        "mapping": null,
+        "label": "Interests, hobbies and activities"
+      }
+    },
+    {
+      "field_id": 200228592,
+      "values": [
+        {
+          "value": "<p>testing disability experience updating<\/p>"
+        }
+      ],
+      "external_id": "disability-experience",
+      "label": "Disability experience",
+      "type": "text",
+      "config": {
+        "settings": {
+          "size": "large",
+          "format": "html"
+        },
+        "mapping": null,
+        "label": "Disability experience"
+      }
+    },
+    {
+      "field_id": 200229344,
+      "values": [
+        {
+          "value": "<p>testing choose to work updating<\/p>"
+        }
+      ],
+      "external_id": "why-choose-disability",
+      "label": "Why choose disability",
+      "type": "text",
+      "config": {
+        "settings": {
+          "size": "large",
+          "format": "html"
+        },
+        "mapping": null,
+        "label": "Why choose disability"
+      }
+    },
+    {
+      "field_id": 200230488,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Autism",
+            "id": 2,
+            "status": "active"
+          }
+        },
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Intellectual Disability",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "disability-type-experience",
+      "label": "Disability type experience",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": true,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Acquired Brain Injury",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Autism",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Intellectual Disability",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Psychosocial Disability",
+              "id": 4,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Physical Disability",
+              "id": 5,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Disability type experience"
+      }
+    },
+    {
+      "field_id": 200230624,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Adults",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "client-age-group-preference",
+      "label": "Client age group preference",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": true,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Adults",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Teenagers",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Children",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Client age group preference"
+      }
+    },
+    {
+      "field_id": 200230625,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Male",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "client-gender-preference",
+      "label": "Client gender preference",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": true,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Female",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Male",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Other",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Client gender preference"
+      }
+    },
+    {
+      "field_id": 200230627,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Yes",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "access-to-a-car",
+      "label": "Access to a car",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "No",
+              "id": 2,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Access to a car"
+      }
+    },
+    {
+      "field_id": 200230626,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Yes with my own car",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "willing-to-provide-transport",
+      "label": "Willing to provide transport",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": true,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes with my own car",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Yes if a car is provided",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "No",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Willing to provide transport"
+      }
+    },
+    {
+      "field_id": 200372744,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Completed",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "assistant-profile",
+      "label": "Assistant profile status",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "FFD5C2",
+              "text": "Invited",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7D1D0",
+              "text": "Not completed",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Completed",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Assistant profile status"
+      }
+    },
+    {
+      "field_id": 184357216,
+      "values": [
+        {
+          "value": "[Go to Workable record](https://inlife.workable.com/backend/candidates/null)"
+        }
+      ],
+      "external_id": "workable-record-2",
+      "label": "Workable record",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var record = '<a href=\\\"https://inlife.workable.com/backend/candidates/'+@[Workable candidate ID](field_184357215)+'\\\">Go to Workable record<\/a>';\n\nrecord"
+        },
+        "mapping": null,
+        "label": "Workable record"
+      }
+    },
+    {
+      "field_id": 185510533,
+      "values": [
+        {
+          "value": "![](http://dummyimage.com/800x35/5092BD/ffffff.png&text=Availability)"
+        }
+      ],
+      "external_id": "field-4",
+      "label": "--",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var x = @[Unique ID](item_app_item_id);\n\nvar lrg = \"800\";\nvar hgt = \"35\";\nvar bg = \"5092BD\";\nvar ft = \"ffffff\";\nvar txt = \"Availability\";\n\nvar header = \"![](http://dummyimage.com/\" + lrg + \"x\" + hgt + \"/\" + bg + \"/\" + ft + \".png&text=\" + txt + \")\";\n\nheader"
+        },
+        "mapping": null,
+        "label": "--"
+      }
+    },
+    {
+      "field_id": 187257220,
+      "values": [
+        {
+          "value": "[Top](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#name) \\- | - [About me](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#calculation) \\- | - [Availability](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-4) \\- | - [Management](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field) \\- | - [Payroll](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-5) \\- | - [Onboarding info](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-2) \\- | - [Onboarding status](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-3)"
+        }
+      ],
+      "external_id": "nav-links-5",
+      "label": "Nav links",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var top = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#name'+'\\\">Top<\/a>';\n\nvar sec1 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#calculation'+'\\\">About me<\/a>';\n\nvar sec2 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-4'+'\\\">Availability<\/a>';\n\nvar sec3 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field'+'\\\">Management<\/a>';\n\nvar sec4 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-5'+'\\\">Payroll<\/a>';\n\nvar sec5 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-2'+'\\\">Onboarding info<\/a>';\n\nvar sec6 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-3'+'\\\">Onboarding status<\/a>';\n\nvar nav = top + \" - | - \" + sec1 + \" - | - \" + sec2 + \" - | - \" + sec3 + \" - | - \" + sec4 + \" - | - \" + sec5 + \" - | - \" + sec6;\n\nnav;"
+        },
+        "mapping": null,
+        "label": "Nav links"
+      }
+    },
+    {
+      "field_id": 185510534,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Yes - Hrs reduced C19",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "seeking-more-work",
+      "label": "Looking for work",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes - Hrs reduced C19",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Yes",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7F0C5",
+              "text": "No",
+              "id": 2,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Looking for work"
+      }
+    },
+    {
+      "field_id": 185510535,
+      "values": [
+        {
+          "value": "<p>night update 5<\/p>"
+        }
+      ],
+      "external_id": "if-yes-of-extra-hours-sought",
+      "label": "Extra hours sought",
+      "type": "text",
+      "config": {
+        "settings": {
+          "size": "large",
+          "format": "html"
+        },
+        "mapping": null,
+        "label": "Extra hours sought"
+      }
+    },
+    {
+      "field_id": 197334407,
+      "values": [
+        {
+          "value": {
+            "color": "F7D1D0",
+            "text": "No",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "early-morning-shifts-2",
+      "label": " [old] Early morning shifts",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7D1D0",
+              "text": "No",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "excluded (testing field)",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": " [old] Early morning shifts"
+      }
+    },
+    {
+      "field_id": 197334231,
+      "values": [
+        {
+          "value": {
+            "color": "DDDDDD",
+            "text": "None",
+            "id": 8,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "early-morning-shifts",
+      "label": "[old] Early morning shift pref",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": true,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Monday",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Tuesday",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Wednesday",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Thursday",
+              "id": 4,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Friday",
+              "id": 5,
+              "status": "active"
+            },
+            {
+              "color": "D1F3EC",
+              "text": "Saturday",
+              "id": 6,
+              "status": "active"
+            },
+            {
+              "color": "D1F3EC",
+              "text": "Sunday",
+              "id": 7,
+              "status": "active"
+            },
+            {
+              "color": "DDDDDD",
+              "text": "None",
+              "id": 8,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "[old] Early morning shift pref"
+      }
+    },
+    {
+      "field_id": 197334408,
+      "values": [
+        {
+          "value": {
+            "color": "F7D1D0",
+            "text": "No",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "school-hour-shifts",
+      "label": "[old] School hour shifts",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7D1D0",
+              "text": "No",
+              "id": 2,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "[old] School hour shifts"
+      }
+    },
+    {
+      "field_id": 197334232,
+      "values": [
+        {
+          "value": {
+            "color": "DDDDDD",
+            "text": "None",
+            "id": 8,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "school-hours-shifts",
+      "label": "[old] School hours shift pref",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": true,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Monday",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Tuesday",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Wednesday",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Thursday",
+              "id": 4,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Friday",
+              "id": 5,
+              "status": "active"
+            },
+            {
+              "color": "D1F3EC",
+              "text": "Saturday",
+              "id": 6,
+              "status": "active"
+            },
+            {
+              "color": "D1F3EC",
+              "text": "Sunday",
+              "id": 7,
+              "status": "active"
+            },
+            {
+              "color": "DDDDDD",
+              "text": "None",
+              "id": 8,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "[old] School hours shift pref"
+      }
+    },
+    {
+      "field_id": 197334409,
+      "values": [
+        {
+          "value": {
+            "color": "F7D1D0",
+            "text": "No",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "evening-shifts-2",
+      "label": "[old] Evening shifts",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7D1D0",
+              "text": "No",
+              "id": 2,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "[old] Evening shifts"
+      }
+    },
+    {
+      "field_id": 197334233,
+      "values": [
+        {
+          "value": {
+            "color": "DDDDDD",
+            "text": "None",
+            "id": 8,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "evening-shifts",
+      "label": "[old] Evening shift pref",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": true,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Monday",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Tuesday",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Wednesday",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Thursday",
+              "id": 4,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Friday",
+              "id": 5,
+              "status": "active"
+            },
+            {
+              "color": "D1F3EC",
+              "text": "Saturday",
+              "id": 6,
+              "status": "active"
+            },
+            {
+              "color": "D1F3EC",
+              "text": "Sunday",
+              "id": 7,
+              "status": "active"
+            },
+            {
+              "color": "DDDDDD",
+              "text": "None",
+              "id": 8,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "[old] Evening shift pref"
+      }
+    },
+    {
+      "field_id": 197334410,
+      "values": [
+        {
+          "value": {
+            "color": "F7D1D0",
+            "text": "No",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "sleepover-shifts-2",
+      "label": "[old] Sleepover shifts",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7D1D0",
+              "text": "No",
+              "id": 2,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "[old] Sleepover shifts"
+      }
+    },
+    {
+      "field_id": 197334234,
+      "values": [
+        {
+          "value": {
+            "color": "DDDDDD",
+            "text": "None",
+            "id": 9,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "sleepover-shifts",
+      "label": "[old] Sleepover shift pref",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": true,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Monday",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Tuesday",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Wednesday",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Thursday",
+              "id": 4,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Friday",
+              "id": 5,
+              "status": "active"
+            },
+            {
+              "color": "D1F3EC",
+              "text": "Saturday",
+              "id": 6,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Sunday",
+              "id": 7,
+              "status": "deleted"
+            },
+            {
+              "color": "D1F3EC",
+              "text": "Sunday",
+              "id": 8,
+              "status": "active"
+            },
+            {
+              "color": "DDDDDD",
+              "text": "None",
+              "id": 9,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "[old] Sleepover shift pref"
+      }
+    },
+    {
+      "field_id": 185510539,
+      "values": [
+        {
+          "value": "TEST2"
+        }
+      ],
+      "external_id": "other-staffing-preferences",
+      "label": "[old] Other staffing preferences",
+      "type": "text",
+      "config": {
+        "settings": {
+          "size": "small",
+          "format": "plain"
+        },
+        "mapping": null,
+        "label": "[old] Other staffing preferences"
+      }
+    },
+    {
+      "field_id": 199058686,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Yes",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "responded",
+      "label": "Responded",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "No",
+              "id": 2,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Responded"
+      }
+    },
+    {
+      "field_id": 185679943,
+      "values": [
+        {
+          "start_time": "04:49:53",
+          "start_date_utc": "2020-06-01",
+          "start": "2020-06-01 04:49:53",
+          "start_time_utc": "04:49:53",
+          "start_utc": "2020-06-01 04:49:53",
+          "start_date": "2020-06-01"
+        }
+      ],
+      "external_id": "date",
+      "label": "Date Availability was last updated",
+      "type": "date",
+      "config": {
+        "settings": {
+          "calendar": false,
+          "color": "DCEBD8",
+          "end": "disabled",
+          "time": "enabled"
+        },
+        "mapping": null,
+        "label": "Date Availability was last updated"
+      }
+    },
+    {
+      "field_id": 185849905,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Yes",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "send-reminder",
+      "label": "Send reminder",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Yes",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "No",
+              "id": 2,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Send reminder"
+      }
+    },
+    {
+      "field_id": 184353680,
+      "values": [
+        {
+          "value": "![](http://dummyimage.com/800x35/5092BD/ffffff.png&text=Management)"
+        }
+      ],
+      "external_id": "field",
+      "label": "--",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var x = @[Unique ID](item_app_item_id);\n\nvar lrg = \"800\";\nvar hgt = \"35\";\nvar bg = \"5092BD\";\nvar ft = \"ffffff\";\nvar txt = \"Management\";\n\nvar header = \"![](http://dummyimage.com/\" + lrg + \"x\" + hgt + \"/\" + bg + \"/\" + ft + \".png&text=\" + txt + \")\";\n\nheader"
+        },
+        "mapping": null,
+        "label": "--"
+      }
+    },
+    {
+      "field_id": 184353679,
+      "values": [
+        {
+          "value": "[Top](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#name) \\- | - [About me](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#calculation) \\- | - [Availability](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-4) \\- | - [Management](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field) \\- | - [Payroll](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-5) \\- | - [Onboarding info](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-2) \\- | - [Onboarding status](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-3)"
+        }
+      ],
+      "external_id": "nav-links",
+      "label": "Nav links",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var top = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#name'+'\\\">Top<\/a>';\n\nvar sec1 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#calculation'+'\\\">About me<\/a>';\n\nvar sec2 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-4'+'\\\">Availability<\/a>';\n\nvar sec3 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field'+'\\\">Management<\/a>';\n\nvar sec4 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-5'+'\\\">Payroll<\/a>';\n\nvar sec5 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-2'+'\\\">Onboarding info<\/a>';\n\nvar sec6 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-3'+'\\\">Onboarding status<\/a>';\n\nvar nav = top + \" - | - \" + sec1 + \" - | - \" + sec2 + \" - | - \" + sec3 + \" - | - \" + sec4 + \" - | - \" + sec5 + \" - | - \" + sec6;\n\nnav;"
+        },
+        "mapping": null,
+        "label": "Nav links"
+      }
+    },
+    {
+      "field_id": 186313672,
+      "values": [
+        {
+          "value": "| Topic | Author | Time Stamp | \n |:---|:---|:---:| \n|[Incident](https://podio.com/inlifeorgau/payroll/apps/assistant-file-notes/items/303)||24-10-2019 01:00 AM|\n"
+        }
+      ],
+      "external_id": "file-notes",
+      "label": "File notes",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "/*var topics = @[All of Topic](in_194262967_185456706).reverse();\nvar authors = @[All of Author](in_185456049_185456706).reverse();\nvar timestmp = @[All of Time stamp](in_185456705_185456706).reverse();\nvar top_uniq_ids = @[All of Assistant_File_Note_ID](in_185749706_185456706).reverse();\n\n\nvar topic_url = \"https://podio.com/inlifeorgau/payroll/apps/assistant-file-notes/items/\";\n\nvar length = timestmp.length;\nif(timestmp && timestmp.length > 5) {\n length = 5\n}\n\nvar return_str = \"\";\nfor(var i = 0; i < length; i++){\nvar date_time = moment(timestmp[i]).format(\"DD-MM-YYYY hh:mm A\");\n              \nreturn_str += \" | [\"+topics[i]+\"](\"+topic_url+top_uniq_ids[i]+\") | \"+authors[i]+\" | \"+date_time +\"| \\n\";\n\n}\nreturn_str = \"| Topic | Author | Time Stamp | \\n |:---|:---|:---:| \\n\"+return_str;\n\n//return_str = topics + '';\n \nreturn_str; */\n// test\n\nvar json = @[All of JSON-Assistant file Notes](in_202447200_185456706)\nvar tempArray = [];\nvar out = '';\nvar return_str = '';\ntry {\nfor(i=0;i<json.length;i++) {\n  var jsonp = JSON.parse(json[i])\n  tempArray.push(jsonp);\n}\n} catch(e) {\n  \"Could not parse json\"\n}\n\n\n\ntempArray.sort(function(a, b){\n    return b.note_id - a.note_id \n})\n\nvar count = 0;\n\nfor(i=0;i<tempArray.length;i++) {\n  var date = (tempArray[i].timestamp)? moment(tempArray[i].timestamp).format(\"DD-MM-YYYY hh:mm A\"):'';\n\n var author = (tempArray[i].author)?tempArray[i].author:'';\n\n  var topic_url = \"https://podio.com/inlifeorgau/payroll/apps/assistant-file-notes/items/\";\n \n  out +='|['+tempArray[i].topic+']('+topic_url+tempArray[i].note_id+')|'+author+'|'+date+'|\\n'\n  count++\n  if(count == 5)\n  break;\n}\n\nreturn_str = \"| Topic | Author | Time Stamp | \\n |:---|:---|:---:| \\n\"+out;\n\nreturn_str\n//test\n//test2"
+        },
+        "mapping": null,
+        "label": "File notes"
+      }
+    },
+    {
+      "field_id": 196203154,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Completed",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "onboarding-complete",
+      "label": "Onboarding complete",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Completed",
+              "id": 1,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Onboarding complete"
+      }
+    },
+    {
+      "field_id": 196203157,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Completed",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "induction-complete",
+      "label": "Online induction complete ",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Completed",
+              "id": 1,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Online induction complete "
+      }
+    },
+    {
+      "field_id": 187258116,
+      "values": [
+        {
+          "start_time": null,
+          "start_date_utc": "1970-01-01",
+          "start": "1970-01-01 00:00:00",
+          "start_time_utc": null,
+          "start_utc": "1970-01-01",
+          "start_date": "1970-01-01"
+        }
+      ],
+      "external_id": "induction-end-date",
+      "label": "Induction end date",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": false,
+          "return_type": "date",
+          "unit": null,
+          "expression": null,
+          "color": "DCEBD8",
+          "decimals": null,
+          "time": "disabled",
+          "script": "moment(@[Date of first shift](field_166217853)).add('days', 90).toDate()"
+        },
+        "mapping":  null,
+        "label": "Induction end date"
+      }
+    },
+    {
+      "field_id": 187256726,
+      "values": [
+        {
+          "value": "![](http://dummyimage.com/800x35/5092BD/ffffff.png&text=Payroll)"
+        }
+      ],
+      "external_id": "field-5",
+      "label": "--",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var x = @[Unique ID](item_app_item_id);\n\nvar lrg = \"800\";\nvar hgt = \"35\";\nvar bg = \"5092BD\";\nvar ft = \"ffffff\";\nvar txt = \"Payroll\";\n\nvar header = \"![](http://dummyimage.com/\" + lrg + \"x\" + hgt + \"/\" + bg + \"/\" + ft + \".png&text=\" + txt + \")\";\n\nheader"
+        },
+        "mapping": null,
+        "label": "--"
+      }
+    },
+    {
+      "field_id": 187257221,
+      "values": [
+        {
+          "value": "[Top](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#name) \\- | - [About me](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#calculation) \\- | - [Availability](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-4) \\- | - [Management](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field) \\- | - [Payroll](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-5) \\- | - [Onboarding info](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-2) \\- | - [Onboarding status](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-3)"
+        }
+      ],
+      "external_id": "nav-links-6",
+      "label": "Nav links",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var top = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#name'+'\\\">Top<\/a>';\n\nvar sec1 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#calculation'+'\\\">About me<\/a>';\n\nvar sec2 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-4'+'\\\">Availability<\/a>';\n\nvar sec3 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field'+'\\\">Management<\/a>';\n\nvar sec4 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-5'+'\\\">Payroll<\/a>';\n\nvar sec5 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-2'+'\\\">Onboarding info<\/a>';\n\nvar sec6 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-3'+'\\\">Onboarding status<\/a>';\n\nvar nav = top + \" - | - \" + sec1 + \" - | - \" + sec2 + \" - | - \" + sec3 + \" - | - \" + sec4 + \" - | - \" + sec5 + \" - | - \" + sec6;\n\nnav;"
+        },
+        "mapping": null,
+        "label": "Nav links"
+      }
+    },
+    {
+      "field_id": 184353681,
+      "values": [
+        {
+          "value": "![](http://dummyimage.com/800x35/5092BD/ffffff.png&text=Onboarding form info)"
+        }
+      ],
+      "external_id": "field-2",
+      "label": "--",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var x = @[Unique ID](item_app_item_id);\n\nvar lrg = \"800\";\nvar hgt = \"35\";\nvar bg = \"5092BD\";\nvar ft = \"ffffff\";\nvar txt = \"Onboarding form info\";\n\nvar header = \"![](http://dummyimage.com/\" + lrg + \"x\" + hgt + \"/\" + bg + \"/\" + ft + \".png&text=\" + txt + \")\";\n\nheader"
+        },
+        "mapping": null,
+        "label": "--"
+      }
+    },
+    {
+      "field_id": 184353891,
+      "values": [
+        {
+          "value": "[Top](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#name) \\- | - [About me](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#calculation) \\- | - [Availability](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-4) \\- | - [Management](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field) \\- | - [Payroll](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-5) \\- | - [Onboarding info](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-2) \\- | - [Onboarding status](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-3)"
+        }
+      ],
+      "external_id": "nav-links-2",
+      "label": "Nav links",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var top = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#name'+'\\\">Top<\/a>';\n\nvar sec1 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#calculation'+'\\\">About me<\/a>';\n\nvar sec2 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-4'+'\\\">Availability<\/a>';\n\nvar sec3 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field'+'\\\">Management<\/a>';\n\nvar sec4 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-5'+'\\\">Payroll<\/a>';\n\nvar sec5 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-2'+'\\\">Onboarding info<\/a>';\n\nvar sec6 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-3'+'\\\">Onboarding status<\/a>';\n\nvar nav = top + \" - | - \" + sec1 + \" - | - \" + sec2 + \" - | - \" + sec3 + \" - | - \" + sec4 + \" - | - \" + sec5 + \" - | - \" + sec6;\n\nnav;"
+        },
+        "mapping": null,
+        "label": "Nav links"
+      }
+    },
+    {
+      "field_id": 184354739,
+      "values": [
+        {
+          "value": {
+            "app": {
+              "current_revision": 53,
+              "link": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts",
+              "icon": "192.png",
+              "item_name": "Contact",
+              "icon_id": 192,
+              "is_default": false,
+              "url_label": "contacts",
+              "item_accounting_info": null,
+              "link_add": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts/items/new",
+              "url": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts",
+              "url_add": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts/items/new",
+              "sharefile_vault_url": null,
+              "default_view_id": null,
+              "name": "Contacts",
+              "space_id": 5876369,
+              "app_id": 20394869,
+              "config": {
+                "name": "Contacts",
+                "icon": "192.png",
+                "item_name": "Contact",
+                "icon_id": 192,
+                "type": "contact"
+              },
+              "status": "active"
+            },
+            "app_item_id": 1218,
+            "item_id": 1089736246,
+            "created_via": {
+              "display": false,
+              "name": "Podio",
+              "id": 1,
+              "auth_client_id": 1,
+              "url": null
+            },
+            "link": "https://podio.com/inlifeorgau/clients-and-crm/apps/contacts/items/1218",
+            "title": "Jake Lawton",
+            "created_by": {
+              "image": {
+                "hosted_by": "podio",
+                "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/901013361",
+                "file_id": 901013361,
+                "link": "https://d2cmuesa4snpwn.cloudfront.net/public/901013361",
+                "link_target": "_blank",
+                "hosted_by_humanized_name": "Podio",
+                "external_file_id": null
+              },
+              "avatar_id": 901013361,
+              "user_id": 4438261,
+              "name": "David Clarke",
+              "last_seen_on": "2021-03-08 02:05:20",
+              "avatar": 901013361,
+              "id": 4438261,
+              "type": "user",
+              "url": "https://podio.com/users/4438261",
+              "avatar_type": "file"
+            },
+            "space": null,
+            "revision": 32,
+            "sharefile_vault_url": null,
+            "created_on": "2019-03-28 04:29:39",
+            "files": [
+
+            ],
+            "initial_revision": {
+              "item_revision_id": 3574823311,
+              "created_on": "2019-05-01 05:29:26",
+              "created_via": {
+                "display": false,
+                "name": "Podio",
+                "id": 1,
+                "auth_client_id": 1,
+                "url": null
+              },
+              "type": "update",
+              "created_by": {
+                "image": {
+                  "hosted_by": "podio",
+                  "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/901013614",
+                  "file_id": 901013614,
+                  "link": "https://d2cmuesa4snpwn.cloudfront.net/public/901013614",
+                  "link_target": "_blank",
+                  "hosted_by_humanized_name": "Podio",
+                  "external_file_id": null
+                },
+                "avatar_id": 901013614,
+                "user_id": 4439839,
+                "name": "Lisa Morrison",
+                "last_seen_on": "2021-03-08 00:11:59",
+                "avatar": 901013614,
+                "id": 4439839,
+                "type": "user",
+                "url": "https://podio.com/users/4439839",
+                "avatar_type": "file"
+              },
+              "user": {
+                "image": {
+                  "hosted_by": "podio",
+                  "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/901013614",
+                  "file_id": 901013614,
+                  "link": "https://d2cmuesa4snpwn.cloudfront.net/public/901013614",
+                  "link_target": "_blank",
+                  "hosted_by_humanized_name": "Podio",
+                  "external_file_id": null
+                },
+                "avatar_id": 901013614,
+                "user_id": 4439839,
+                "name": "Lisa Morrison",
+                "last_seen_on": "2021-03-08 00:11:59",
+                "avatar": 901013614,
+                "id": 4439839,
+                "type": "user",
+                "url": "https://podio.com/users/4439839",
+                "avatar_type": "file"
+              },
+              "revision": 3
+            },
+            "sharefile_vault_folder_id": null
+          }
+        }
+      ],
+      "external_id": "requested-by-2",
+      "label": "Requested by",
+      "type": "app",
+      "config": {
+        "settings": {
+          "referenceable_types": [
+            20394869
+          ],
+          "referenced_apps": [
+            {
+              "view_id": null,
+              "app_id": 20394869
+            }
+          ],
+          "multiple": true
+        },
+        "mapping": null,
+        "label": "Requested by"
+      }
+    },
+    {
+      "field_id": 184355713,
+      "values": [
+        {
+          "start_time": null,
+          "start_date_utc": "2019-09-03",
+          "start": "2019-09-03 00:00:00",
+          "start_time_utc": null,
+          "start_utc": "2019-09-03",
+          "start_date": "2019-09-03"
+        }
+      ],
+      "external_id": "date-requested",
+      "label": "Date requested",
+      "type": "date",
+      "config": {
+        "settings": {
+          "calendar": false,
+          "color": "DCEBD8",
+          "end": "disabled",
+          "time": "disabled"
+        },
+        "mapping": null,
+        "label": "Date requested"
+      }
+    },
+    {
+      "field_id": 184353687,
+      "values": [
+        {
+          "value": "![](http://dummyimage.com/800x35/5092BD/ffffff.png&text=Onboarding status)"
+        }
+      ],
+      "external_id": "field-3",
+      "label": "--",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var x = @[Unique ID](item_app_item_id);\n\nvar lrg = \"800\";\nvar hgt = \"35\";\nvar bg = \"5092BD\";\nvar ft = \"ffffff\";\nvar txt = \"Onboarding status\";\n\nvar header = \"![](http://dummyimage.com/\" + lrg + \"x\" + hgt + \"/\" + bg + \"/\" + ft + \".png&text=\" + txt + \")\";\n\nheader"
+        },
+        "mapping": null,
+        "label": "--"
+      }
+    },
+    {
+      "field_id": 184353941,
+      "values": [
+        {
+          "value": "[Top](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#name) \\- | - [About me](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#calculation) \\- | - [Availability](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-4) \\- | - [Management](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field) \\- | - [Payroll](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-5) \\- | - [Onboarding info](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-2) \\- | - [Onboarding status](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628#field-3)"
+        }
+      ],
+      "external_id": "nav-links-3",
+      "label": "Nav links",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var top = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#name'+'\\\">Top<\/a>';\n\nvar sec1 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#calculation'+'\\\">About me<\/a>';\n\nvar sec2 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-4'+'\\\">Availability<\/a>';\n\nvar sec3 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field'+'\\\">Management<\/a>';\n\nvar sec4 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-5'+'\\\">Payroll<\/a>';\n\nvar sec5 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-2'+'\\\">Onboarding info<\/a>';\n\nvar sec6 = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'#field-3'+'\\\">Onboarding status<\/a>';\n\nvar nav = top + \" - | - \" + sec1 + \" - | - \" + sec2 + \" - | - \" + sec3 + \" - | - \" + sec4 + \" - | - \" + sec5 + \" - | - \" + sec6;\n\nnav;"
+        },
+        "mapping": null,
+        "label": "Nav links"
+      }
+    },
+    {
+      "field_id": 184354530,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Completed",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "reference-check-1",
+      "label": "Ref check 1",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "F7F0C5",
+              "text": "Details required from candidate",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7F0C5",
+              "text": "In progress",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Completed",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Ref check 1"
+      }
+    },
+    {
+      "field_id": 184354531,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Completed",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "reference-check-2",
+      "label": "Ref check 2",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "F7F0C5",
+              "text": "Details required from candidate",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7F0C5",
+              "text": "In progress",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Completed",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Ref check 2"
+      }
+    },
+    {
+      "field_id": 184667799,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Interview conducted and notes recorded in Workable",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "interview",
+      "label": "Interview",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Interview conducted and notes recorded in Workable",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Notes recorded in Workable",
+              "id": 1,
+              "status": "deleted"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Interview"
+      }
+    },
+    {
+      "field_id": 184354532,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Completed",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "employment-contract",
+      "label": "Empl. contract",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "F7F0C5",
+              "text": "Waiting for signature",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Completed",
+              "id": 2,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Empl. contract"
+      }
+    },
+    {
+      "field_id": 166217856,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Check completed",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "dwes",
+      "label": "DWES",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "F7F0C5",
+              "text": "Form sent",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7F0C5",
+              "text": "Form received",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Check completed",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "DWES"
+      }
+    },
+    {
+      "field_id": 184354533,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Received",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "pol",
+      "label": "Police check",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "F7F0C5",
+              "text": "Application pending",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "FFD5C2",
+              "text": "Declined",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Received",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Police check"
+      }
+    },
+    {
+      "field_id": 184354534,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Received",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "first-aid-cert",
+      "label": "First Aid cert",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "F7F0C5",
+              "text": "Course enrolled",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "FFD5C2",
+              "text": "Declined",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Received",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "First Aid cert"
+      }
+    },
+    {
+      "field_id": 184354535,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Received",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "cpr",
+      "label": "CPR",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "F7F0C5",
+              "text": "Course enrolled",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "FFD5C2",
+              "text": "Declined",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Received",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "CPR"
+      }
+    },
+    {
+      "field_id": 184354536,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Received",
+            "id": 3,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "manual-handling",
+      "label": "Manual handling",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "F7F0C5",
+              "text": "Course details sent",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "FFD5C2",
+              "text": "Declined",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Received",
+              "id": 3,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Manual handling"
+      }
+    },
+    {
+      "field_id": 191781587,
+      "values": [
+        {
+          "value": {
+            "color": "F7F0C5",
+            "text": "In progress",
+            "id": 2,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "induction-progress",
+      "label": "Online Induction progress",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Invited ",
+              "id": 1,
+              "status": "active"
+            },
+            {
+              "color": "F7F0C5",
+              "text": "In progress",
+              "id": 2,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Completed online activities",
+              "id": 3,
+              "status": "active"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Completed Coordinator check-in call",
+              "id": 6,
+              "status": "deleted"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Completed in-person induction",
+              "id": 5,
+              "status": "deleted"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "started",
+              "id": 4,
+              "status": "deleted"
+            },
+            {
+              "color": "DCEBD8",
+              "text": "Send induction feedback email",
+              "id": 7,
+              "status": "deleted"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Online Induction progress"
+      }
+    },
+    {
+      "field_id": 195576144,
+      "values": [
+        {
+          "value": {
+            "color": "DCEBD8",
+            "text": "Send it now",
+            "id": 1,
+            "status": "active"
+          }
+        }
+      ],
+      "external_id": "send-induction-feedback-email",
+      "label": "Send induction feedback email",
+      "type": "category",
+      "config": {
+        "settings": {
+          "display": "inline",
+          "multiple": false,
+          "options": [
+            {
+              "color": "DCEBD8",
+              "text": "Send it now",
+              "id": 1,
+              "status": "active"
+            }
+          ]
+        },
+        "mapping": null,
+        "label": "Send induction feedback email"
+      }
+    },
+    {
+      "field_id": 188051597,
+      "values": [
+        {
+          "value": "[View in Podio](https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/628)"
+        }
+      ],
+      "external_id": "idhidden",
+      "label": "Weblink_Hidden",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "var nav = '<a href=\\\"https://podio.com/inlifeorgau/payroll/apps/inlife-assistants/items/'+@[Unique ID](item_app_item_id)+'\\\">View in Podio<\/a>';\n\nnav;"
+        },
+        "mapping": null,
+        "label": "Weblink_Hidden"
+      }
+    },
+    {
+      "field_id": 195929460,
+      "values": [
+        {
+          "start_time": null,
+          "start_date_utc": "2020-10-01",
+          "start": "2020-10-01 00:00:00",
+          "start_time_utc": null,
+          "start_utc": "2020-10-01",
+          "start_date": "2020-10-01"
+        }
+      ],
+      "external_id": "next-birthday-date",
+      "label": "Next Birthday Date",
+      "type": "date",
+      "config": {
+        "settings": {
+          "calendar": false,
+          "color": "DCEBD8",
+          "end": "disabled",
+          "time": "disabled"
+        },
+        "mapping": null,
+        "label": "Next Birthday Date"
+      }
+    },
+    {
+      "field_id": 198432954,
+      "values": [
+        {
+          "value": "zzGirish test Assistant"
+        }
+      ],
+      "external_id": "requested-by-name",
+      "label": "Requested by Name",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "@[All of Name](out_166217575_184718595) + ''"
+        },
+        "mapping": null,
+        "label": "Requested by Name"
+      }
+    },
+    {
+      "field_id": 199411501,
+      "values": [
+        {
+          "start_time": null,
+          "start_date_utc": "2020-07-10",
+          "start": "2020-07-10 00:00:00",
+          "start_time_utc": null,
+          "start_utc": "2020-07-10",
+          "start_date": "2020-07-10"
+        }
+      ],
+      "external_id": "last-reminder-mail-date",
+      "label": "Last reminder mail date",
+      "type": "date",
+      "config": {
+        "settings": {
+          "calendar": false,
+          "color": "DCEBD8",
+          "end": "disabled",
+          "time": "disabled"
+        },
+        "mapping": null,
+        "label": "Last reminder mail date"
+      }
+    },
+    {
+      "field_id": 200454407,
+      "values": [
+        {
+          "value": "628"
+        }
+      ],
+      "external_id": "uinque-id",
+      "label": "Uinque Id",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "text",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": null,
+          "time": null,
+          "script": "@[Unique ID](item_app_item_id)"
+        },
+        "mapping": null,
+        "label": "Uinque Id"
+      }
+    },
+    {
+      "field_id": 207798614,
+      "values": [
+        {
+          "value": "0.0000"
+        }
+      ],
+      "external_id": "if-date-availability-is-less-than-60",
+      "label": "If Date Availability Is Less Than 60",
+      "type": "calculation",
+      "config": {
+        "settings": {
+          "calendar": null,
+          "return_type": "number",
+          "unit": null,
+          "expression": null,
+          "color": null,
+          "decimals": 2,
+          "time": null,
+          "script": "var lastUpdated = @[Date Availability was last updated](field_185679943);\nvar d = new Date();\n d.setDate(d.getDate()-60);\nd.getTime();\nvar mismatch = 0;\nif(lastUpdated.getTime()<d.getTime())\nmismatch = 1;\nmismatch"
+        },
+        "mapping": null,
+        "label": "If Date Availability Is Less Than 60"
+      }
+    }
+  ],
+  "sharefile_vault_folder_id": null,
+  "last_event_on": "2021-03-08 02:11:50"
+}
